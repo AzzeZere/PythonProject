@@ -13,4 +13,5 @@ plt.title('Epic Char')
 plt.ylabel('Y axis')
 plt.xlabel('X asix')
 
+print("this is how it's done bitch!!")
 plt.show
